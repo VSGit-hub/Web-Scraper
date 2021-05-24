@@ -1,7 +1,8 @@
 # Crypto-Scraper
 
 This is a simple web scraping project. It is made by using pythons BeautifulSoup and Selenium packages. 11 data fields are extracted through 53 pages of [coinmarketcap.com](https://coinmarketcap.com)
-This project solves the problem of lazy loading by scrolling each page automatically.
+
+This project solves the problem of lazy loading by scrolling each page automatically. 
 
 ## Customizations.
 
